@@ -302,3 +302,7 @@ new [description:"asdf" end:"1564056069" entry:"1564055919" modified:"1564056069
 time 1564056095
 new [description:"testing" entry:"1564056095" modified:"1564056095" status:"pending" uuid:"a040173b-bc16-4d9d-b37d-5231ebabb5e9"]
 ---
+time 1564056110
+old [description:"testing" entry:"1564056095" modified:"1564056095" status:"pending" uuid:"a040173b-bc16-4d9d-b37d-5231ebabb5e9"]
+new [description:"testing" end:"1564056110" entry:"1564056095" modified:"1564056110" status:"completed" uuid:"a040173b-bc16-4d9d-b37d-5231ebabb5e9"]
+---
