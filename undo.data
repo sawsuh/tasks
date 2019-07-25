@@ -295,3 +295,7 @@ new [description:"asdf" end:"1564041928" entry:"1564041835" modified:"1564041931
 time 1564055919
 new [description:"asdf" entry:"1564055919" modified:"1564055919" status:"pending" uuid:"2d36dd5c-365b-4802-ac6a-2d2adc0a2aac"]
 ---
+time 1564056069
+old [description:"asdf" entry:"1564055919" modified:"1564055919" status:"pending" uuid:"2d36dd5c-365b-4802-ac6a-2d2adc0a2aac"]
+new [description:"asdf" end:"1564056069" entry:"1564055919" modified:"1564056069" status:"completed" uuid:"2d36dd5c-365b-4802-ac6a-2d2adc0a2aac"]
+---
