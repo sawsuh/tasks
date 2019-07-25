@@ -288,3 +288,7 @@ new [description:"renew passport" entry:"1563965091" modified:"1563965091" statu
 time 1564041835
 new [description:"asdf" entry:"1564041835" modified:"1564041835" status:"pending" uuid:"bf54a7cb-3a87-41be-83dd-1eb7f6ef3b03"]
 ---
+time 1564041931
+old [description:"asdf" entry:"1564041835" modified:"1564041835" status:"pending" uuid:"bf54a7cb-3a87-41be-83dd-1eb7f6ef3b03"]
+new [description:"asdf" end:"1564041928" entry:"1564041835" modified:"1564041931" status:"deleted" uuid:"bf54a7cb-3a87-41be-83dd-1eb7f6ef3b03"]
+---
