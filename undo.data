@@ -306,3 +306,57 @@ time 1564056110
 old [description:"testing" entry:"1564056095" modified:"1564056095" status:"pending" uuid:"a040173b-bc16-4d9d-b37d-5231ebabb5e9"]
 new [description:"testing" end:"1564056110" entry:"1564056095" modified:"1564056110" status:"completed" uuid:"a040173b-bc16-4d9d-b37d-5231ebabb5e9"]
 ---
+time 1564120481
+new [description:"quantium case study" entry:"1564120481" modified:"1564120481" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+---
+time 1564120536
+old [description:"quantium case study" entry:"1564120481" modified:"1564120481" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+new [description:"scheduled 2019-08-12" entry:"1564120481" modified:"1564120536" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+---
+time 1564120547
+old [description:"scheduled 2019-08-12" entry:"1564120481" modified:"1564120536" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+new [description:"scheduled 2019-08-12" entry:"1564120481" modified:"1564120547" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+---
+time 1564120567
+old [description:"scheduled 2019-08-12" entry:"1564120481" modified:"1564120547" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+new [description:"quantium case study" entry:"1564120481" modified:"1564120567" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+---
+time 1564120585
+old [description:"quantium case study" entry:"1564120481" modified:"1564120567" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+new [description:"quantium case study" entry:"1564120481" modified:"1564120585" scheduled:"1565532000" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120609
+old [description:"quantium case study" entry:"1564120481" modified:"1564120585" scheduled:"1565532000" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"quantium case study" entry:"1564120481" modified:"1564120609" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120642
+old [description:"quantium case study" entry:"1564120481" modified:"1564120609" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"quantium case study" due:"1565618400" entry:"1564120481" modified:"1564120642" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120653
+old [description:"quantium case study" due:"1565618400" entry:"1564120481" modified:"1564120642" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"case study preread" due:"1565618400" entry:"1564120481" modified:"1564120653" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120668
+old [description:"case study preread" due:"1565618400" entry:"1564120481" modified:"1564120653" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"case study" due:"1565618400" entry:"1564120481" modified:"1564120668" project:"quantium" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120676
+old [description:"case study" due:"1565618400" entry:"1564120481" modified:"1564120668" project:"quantium" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120676" project:"quantium" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120728
+old [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120676" project:"quantium" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120728" project:"quantium case study" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120787
+new [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120787" project:"quantium case study" status:"waiting" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09" wait:"1565618400"]
+---
+time 1564120849
+old [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120728" project:"quantium case study" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+new [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120849" project:"quantium case study" scheduled:"1565532000" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
+---
+time 1564120868
+old [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120787" project:"quantium case study" status:"waiting" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09" wait:"1565618400"]
+new [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120868" project:"quantium case study" scheduled:"1565618400" status:"waiting" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09" wait:"1565618400"]
+---
