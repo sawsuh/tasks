@@ -2,4 +2,4 @@
 [description:"renew passport" entry:"1563965091" modified:"1563965091" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
 [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120849" project:"quantium case study" scheduled:"1565532000" status:"waiting" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" wait:"1565532000"]
 [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120868" project:"quantium case study" scheduled:"1565618400" status:"waiting" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09" wait:"1565618400"]
-[description:"asdf" entry:"1564127273" modified:"1564127273" status:"pending" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
+[description:"asdf" end:"1564127320" entry:"1564127273" modified:"1564127320" status:"completed" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]

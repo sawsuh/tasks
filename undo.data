@@ -363,3 +363,7 @@ new [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study asse
 time 1564127273
 new [description:"asdf" entry:"1564127273" modified:"1564127273" status:"pending" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
 ---
+time 1564127320
+old [description:"asdf" entry:"1564127273" modified:"1564127273" status:"pending" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
+new [description:"asdf" end:"1564127320" entry:"1564127273" modified:"1564127320" status:"completed" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
+---
