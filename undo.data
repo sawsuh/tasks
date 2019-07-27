@@ -367,3 +367,7 @@ time 1564127320
 old [description:"asdf" entry:"1564127273" modified:"1564127273" status:"pending" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
 new [description:"asdf" end:"1564127320" entry:"1564127273" modified:"1564127320" status:"completed" uuid:"38ee17b9-cbfc-4360-a750-a17cc7a0a7ba"]
 ---
+time 1564198539
+old [description:"ernst and young" due:"1566482400" entry:"1561346241" modified:"1561346983" project:"internships" scheduled:"1563717600" status:"pending" uuid:"cf39b966-3490-4d3d-a7f2-b4471ec0867f"]
+new [description:"ernst and young" due:"1566482400" end:"1564198539" entry:"1561346241" modified:"1564198539" project:"internships" scheduled:"1563717600" status:"completed" uuid:"cf39b966-3490-4d3d-a7f2-b4471ec0867f"]
+---
