@@ -371,3 +371,42 @@ time 1564198539
 old [description:"ernst and young" due:"1566482400" entry:"1561346241" modified:"1561346983" project:"internships" scheduled:"1563717600" status:"pending" uuid:"cf39b966-3490-4d3d-a7f2-b4471ec0867f"]
 new [description:"ernst and young" due:"1566482400" end:"1564198539" entry:"1561346241" modified:"1564198539" project:"internships" scheduled:"1563717600" status:"completed" uuid:"cf39b966-3490-4d3d-a7f2-b4471ec0867f"]
 ---
+time 1565409448
+new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" modified:"1565409448" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+---
+time 1565409459
+new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409459" imask:"0" modified:"1565409448" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
+---
+time 1565409459
+old [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" modified:"1565409448" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" mask:"-" modified:"1565409459" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+---
+time 1565409500
+old [description:"MATH1116 assignment" due:"1565791200" entry:"1565409459" imask:"0" modified:"1565409448" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
+new [description:"MATH1116 assignment" due:"1565704800" entry:"1565409459" imask:"0" modified:"1565409500" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
+---
+time 1565409502
+old [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" mask:"-" modified:"1565409459" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+new [description:"MATH1116 assignment" due:"1565704800" entry:"1565409448" mask:"-" modified:"1565409502" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+---
+time 1565409515
+new [description:"MATH2322 assignment" due:"1565791200" entry:"1565409515" modified:"1565409515" recur:"weekly" status:"recurring" until:"1567259999" uuid:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e"]
+---
+time 1565409533
+new [description:"STAT2008 assignment" due:"1567087200" entry:"1565409533" modified:"1565409533" status:"pending" uuid:"d984f4b9-b02e-4df0-8378-a891b9dcbfb4"]
+---
+time 1565409535
+new [description:"MATH2322 assignment" due:"1565791200" entry:"1565409535" imask:"0" modified:"1565409515" parent:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e" recur:"weekly" status:"pending" until:"1567259999" uuid:"c139b82a-25cd-4dc9-a17f-8a38488ca257"]
+---
+time 1565409535
+old [description:"MATH2322 assignment" due:"1565791200" entry:"1565409515" modified:"1565409515" recur:"weekly" status:"recurring" until:"1567259999" uuid:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e"]
+new [description:"MATH2322 assignment" due:"1565791200" entry:"1565409515" mask:"-" modified:"1565409535" recur:"weekly" status:"recurring" until:"1567259999" uuid:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e"]
+---
+time 1565409642
+old [description:"MATH1116 assignment" due:"1565704800" entry:"1565409459" imask:"0" modified:"1565409500" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
+new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409459" imask:"0" modified:"1565409642" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
+---
+time 1565409643
+old [description:"MATH1116 assignment" due:"1565704800" entry:"1565409448" mask:"-" modified:"1565409502" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" mask:"-" modified:"1565409643" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
+---
