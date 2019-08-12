@@ -410,3 +410,7 @@ time 1565409643
 old [description:"MATH1116 assignment" due:"1565704800" entry:"1565409448" mask:"-" modified:"1565409502" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
 new [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" mask:"-" modified:"1565409643" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
 ---
+time 1565573631
+old [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120849" project:"quantium case study" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+new [description:"study preread" due:"1565618400" end:"1565573631" entry:"1564120481" modified:"1565573631" project:"quantium case study" scheduled:"1565532000" status:"completed" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
+---
