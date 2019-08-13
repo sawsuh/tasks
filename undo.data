@@ -414,3 +414,7 @@ time 1565573631
 old [description:"study preread" due:"1565618400" entry:"1564120481" modified:"1564120849" project:"quantium case study" scheduled:"1565532000" status:"pending" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
 new [description:"study preread" due:"1565618400" end:"1565573631" entry:"1564120481" modified:"1565573631" project:"quantium case study" scheduled:"1565532000" status:"completed" uuid:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c"]
 ---
+time 1565689133
+old [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120868" project:"quantium case study" scheduled:"1565618400" status:"pending" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09"]
+new [depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" end:"1565689133" entry:"1564120787" modified:"1565689133" project:"quantium case study" scheduled:"1565618400" status:"completed" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09"]
+---

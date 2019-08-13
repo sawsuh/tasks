@@ -1,5 +1,4 @@
 [description:"renew passport" entry:"1563965091" modified:"1563965091" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
-[depends:"e53fa71e-a49c-4a4d-98e6-2711eb17c04c" description:"case study assessment" due:"1565791200" entry:"1564120787" modified:"1564120868" project:"quantium case study" scheduled:"1565618400" status:"waiting" uuid:"e7484ac7-418a-4ae0-a48b-5817dc7aee09" wait:"1565618400"]
 [description:"MATH1116 assignment" due:"1565791200" entry:"1565409448" mask:"-" modified:"1565409643" recur:"weekly" status:"recurring" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
 [description:"MATH1116 assignment" due:"1565791200" entry:"1565409459" imask:"0" modified:"1565409642" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"pending" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]
 [description:"MATH2322 assignment" due:"1565791200" entry:"1565409515" mask:"-" modified:"1565409535" recur:"weekly" status:"recurring" until:"1567259999" uuid:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e"]
