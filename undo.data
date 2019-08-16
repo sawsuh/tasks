@@ -480,3 +480,7 @@ time 1565795619
 old [description:"MATH2322 assignment" due:"1566396000" end:"1565795618" entry:"1565794738" imask:"1" modified:"1565795618" parent:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e" recur:"weekly" status:"deleted" until:"1567259999" uuid:"2b78b548-d80a-4653-989d-85053a51d76e"]
 new [description:"MATH2322 assignment" due:"1566396000" end:"1565795619" entry:"1565794738" imask:"1" modified:"1565795619" parent:"7523eb90-aae4-42a3-ae08-e64fd56f7c8e" recur:"weekly" status:"deleted" until:"1567259999" uuid:"2b78b548-d80a-4653-989d-85053a51d76e"]
 ---
+time 1565935731
+old [description:"STAT2008 assignment" due:"1567087200" entry:"1565409533" modified:"1565409533" status:"pending" uuid:"d984f4b9-b02e-4df0-8378-a891b9dcbfb4"]
+new [description:"STAT2008 assignment" due:"1567087200" end:"1565935731" entry:"1565409533" modified:"1565935731" status:"completed" uuid:"d984f4b9-b02e-4df0-8378-a891b9dcbfb4"]
+---
