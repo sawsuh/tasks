@@ -131,3 +131,6 @@
 {"description":"MATH1116 assignment","due":"20190821T140000Z","end":"20190814T151338Z","entry":"20190814T145858Z","imask":1,"modified":"20190814T151338Z","parent":"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c","recur":"weekly","status":"deleted","until":"20190831T135959Z","uuid":"5352e543-dae0-42bb-bfcd-56e7adff401a"}
 {"description":"MATH2322 assignment","due":"20190821T140000Z","end":"20190814T151339Z","entry":"20190814T145858Z","imask":1,"modified":"20190814T151339Z","parent":"7523eb90-aae4-42a3-ae08-e64fd56f7c8e","recur":"weekly","status":"deleted","until":"20190831T135959Z","uuid":"2b78b548-d80a-4653-989d-85053a51d76e"}
 {"description":"STAT2008 assignment","due":"20190829T140000Z","end":"20190816T060851Z","entry":"20190810T035853Z","modified":"20190816T060851Z","status":"completed","uuid":"d984f4b9-b02e-4df0-8378-a891b9dcbfb4"}
+{"description":"buy clothes","due":"20190823T140000Z","entry":"20190816T104812Z","modified":"20190816T104812Z","status":"pending","uuid":"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"}
+{"description":"look into super","due":"20190823T140000Z","entry":"20190816T104819Z","modified":"20190816T104819Z","status":"pending","uuid":"c270a3fd-055a-4e59-ae2a-6254486fcec7"}
+{"description":"get haircut","due":"20190825T140000Z","entry":"20190816T104901Z","modified":"20190816T104901Z","status":"pending","uuid":"618de772-194c-496c-a434-625c0c65d236"}
