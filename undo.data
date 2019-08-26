@@ -512,3 +512,14 @@ time 1566716713
 old [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716677" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
 new [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716713" priority:"H" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
 ---
+time 1566791269
+old [description:"look into super" due:"1567346400" entry:"1565952499" modified:"1566715307" status:"pending" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
+new [description:"look into super" due:"1567346400" end:"1566791269" entry:"1565952499" modified:"1566791269" status:"completed" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
+---
+time 1566791271
+old [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716713" priority:"H" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
+new [description:"do cadetship forms" due:"1567346400" end:"1566791271" entry:"1566716677" modified:"1566791271" priority:"H" status:"completed" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
+---
+time 1566791281
+new [description:"do super form and email in" due:"1567259999" entry:"1566791281" modified:"1566791281" status:"pending" uuid:"14bafc5d-eea4-4b50-8e03-6fbdad561da7"]
+---
