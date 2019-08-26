@@ -1,4 +1,3 @@
 [description:"renew passport" entry:"1563965091" modified:"1563965091" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
-[description:"buy clothes" due:"1566568800" entry:"1565952492" modified:"1565952492" status:"pending" uuid:"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"]
-[description:"look into super" due:"1566568800" entry:"1565952499" modified:"1565952499" status:"pending" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
-[description:"get haircut" due:"1566741600" entry:"1565952541" modified:"1565952541" status:"pending" uuid:"618de772-194c-496c-a434-625c0c65d236"]
+[description:"look into super" due:"1567346400" entry:"1565952499" modified:"1566715307" status:"pending" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
+[description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716713" priority:"H" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]

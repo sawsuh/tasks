@@ -493,3 +493,22 @@ new [description:"look into super" due:"1566568800" entry:"1565952499" modified:
 time 1565952541
 new [description:"get haircut" due:"1566741600" entry:"1565952541" modified:"1565952541" status:"pending" uuid:"618de772-194c-496c-a434-625c0c65d236"]
 ---
+time 1566715281
+old [description:"buy clothes" due:"1566568800" entry:"1565952492" modified:"1565952492" status:"pending" uuid:"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"]
+new [description:"buy clothes" due:"1566568800" end:"1566715281" entry:"1565952492" modified:"1566715281" status:"completed" uuid:"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"]
+---
+time 1566715292
+old [description:"get haircut" due:"1566741600" entry:"1565952541" modified:"1565952541" status:"pending" uuid:"618de772-194c-496c-a434-625c0c65d236"]
+new [description:"get haircut" due:"1566741600" end:"1566715292" entry:"1565952541" modified:"1566715292" status:"completed" uuid:"618de772-194c-496c-a434-625c0c65d236"]
+---
+time 1566715307
+old [description:"look into super" due:"1566568800" entry:"1565952499" modified:"1565952499" status:"pending" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
+new [description:"look into super" due:"1567346400" entry:"1565952499" modified:"1566715307" status:"pending" uuid:"c270a3fd-055a-4e59-ae2a-6254486fcec7"]
+---
+time 1566716677
+new [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716677" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
+---
+time 1566716713
+old [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716677" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
+new [description:"do cadetship forms" due:"1567346400" entry:"1566716677" modified:"1566716713" priority:"H" status:"pending" uuid:"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"]
+---

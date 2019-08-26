@@ -1,3 +1,5 @@
+[description:"buy clothes" due:"1566568800" end:"1566715281" entry:"1565952492" modified:"1566715281" status:"completed" uuid:"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"]
+[description:"get haircut" due:"1566741600" end:"1566715292" entry:"1565952541" modified:"1566715292" status:"completed" uuid:"618de772-194c-496c-a434-625c0c65d236"]
 [description:"STAT2008 assignment" due:"1567087200" end:"1565935731" entry:"1565409533" modified:"1565935731" status:"completed" uuid:"d984f4b9-b02e-4df0-8378-a891b9dcbfb4"]
 [description:"MATH1116 assignment" due:"1565791200" end:"1565795617" entry:"1565409448" mask:"XX" modified:"1565795617" recur:"weekly" status:"deleted" until:"1567259999" uuid:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c"]
 [description:"MATH1116 assignment" due:"1565791200" end:"1565795613" entry:"1565409459" imask:"0" modified:"1565795616" parent:"1f2e017f-a6f1-4cf0-ade1-72869a88bd6c" recur:"weekly" status:"deleted" until:"1567259999" uuid:"5d5ec43d-6866-42ed-a8fb-f91810094932"]

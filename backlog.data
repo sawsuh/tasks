@@ -134,3 +134,8 @@
 {"description":"buy clothes","due":"20190823T140000Z","entry":"20190816T104812Z","modified":"20190816T104812Z","status":"pending","uuid":"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"}
 {"description":"look into super","due":"20190823T140000Z","entry":"20190816T104819Z","modified":"20190816T104819Z","status":"pending","uuid":"c270a3fd-055a-4e59-ae2a-6254486fcec7"}
 {"description":"get haircut","due":"20190825T140000Z","entry":"20190816T104901Z","modified":"20190816T104901Z","status":"pending","uuid":"618de772-194c-496c-a434-625c0c65d236"}
+{"description":"buy clothes","due":"20190823T140000Z","end":"20190825T064121Z","entry":"20190816T104812Z","modified":"20190825T064121Z","status":"completed","uuid":"656fc2f5-4e78-4e4f-ac14-7b6266e98c8f"}
+{"description":"get haircut","due":"20190825T140000Z","end":"20190825T064132Z","entry":"20190816T104901Z","modified":"20190825T064132Z","status":"completed","uuid":"618de772-194c-496c-a434-625c0c65d236"}
+{"description":"look into super","due":"20190901T140000Z","entry":"20190816T104819Z","modified":"20190825T064147Z","status":"pending","uuid":"c270a3fd-055a-4e59-ae2a-6254486fcec7"}
+{"description":"do cadetship forms","due":"20190901T140000Z","entry":"20190825T070437Z","modified":"20190825T070437Z","status":"pending","uuid":"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"}
+{"description":"do cadetship forms","due":"20190901T140000Z","entry":"20190825T070437Z","modified":"20190825T070513Z","priority":"H","status":"pending","uuid":"aa9f5edd-2ce0-4d15-871f-6d0d728270c1"}
