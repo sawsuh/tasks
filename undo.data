@@ -523,3 +523,7 @@ new [description:"do cadetship forms" due:"1567346400" end:"1566791271" entry:"1
 time 1566791281
 new [description:"do super form and email in" due:"1567259999" entry:"1566791281" modified:"1566791281" status:"pending" uuid:"14bafc5d-eea4-4b50-8e03-6fbdad561da7"]
 ---
+time 1567082653
+old [description:"do super form and email in" due:"1567259999" entry:"1566791281" modified:"1566791281" status:"pending" uuid:"14bafc5d-eea4-4b50-8e03-6fbdad561da7"]
+new [description:"do super form and email in" due:"1567259999" end:"1567082653" entry:"1566791281" modified:"1567082653" status:"completed" uuid:"14bafc5d-eea4-4b50-8e03-6fbdad561da7"]
+---
