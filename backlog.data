@@ -151,3 +151,4 @@
 {"description":"put existing passport details in new passport","end":"20190925T121146Z","entry":"20190913T015002Z","modified":"20190925T121146Z","status":"completed","uuid":"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6"}
 {"description":"get omers details for passport","entry":"20190925T121151Z","modified":"20190925T121151Z","status":"pending","uuid":"92d14e78-c6b4-4828-902f-f621b209ec4e"}
 {"depends":"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e","description":"renew passport","entry":"20190724T104451Z","modified":"20190925T121159Z","status":"pending","uuid":"662bffa6-7c32-44b4-a182-92ab2ceb7657"}
+{"description":"do 180dc research","end":"20190925T121219Z","entry":"20190913T015157Z","modified":"20190925T121219Z","status":"completed","uuid":"2a315df0-adc9-4415-8e71-356975c673f6"}
