@@ -544,3 +544,14 @@ time 1568339791
 old [description:"post 180dc survey online" entry:"1568339189" modified:"1568339189" status:"pending" uuid:"f6b4806b-31dc-4f46-899b-67fe39f757aa"]
 new [description:"post 180dc survey online" end:"1568339791" entry:"1568339189" modified:"1568339791" status:"completed" uuid:"f6b4806b-31dc-4f46-899b-67fe39f757aa"]
 ---
+time 1569413506
+old [description:"put existing passport details in new passport" entry:"1568339402" modified:"1568339402" status:"pending" uuid:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6"]
+new [description:"put existing passport details in new passport" end:"1569413506" entry:"1568339402" modified:"1569413506" status:"completed" uuid:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6"]
+---
+time 1569413511
+new [description:"get omers details for passport" entry:"1569413511" modified:"1569413511" status:"pending" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
+---
+time 1569413519
+old [depends:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6" description:"renew passport" entry:"1563965091" modified:"1568339413" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
+new [depends:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e" description:"renew passport" entry:"1563965091" modified:"1569413519" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
+---
