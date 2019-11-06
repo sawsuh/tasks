@@ -559,3 +559,11 @@ time 1569413539
 old [description:"do 180dc research" entry:"1568339517" modified:"1568339517" status:"pending" uuid:"2a315df0-adc9-4415-8e71-356975c673f6"]
 new [description:"do 180dc research" end:"1569413539" entry:"1568339517" modified:"1569413539" status:"completed" uuid:"2a315df0-adc9-4415-8e71-356975c673f6"]
 ---
+time 1573022122
+old [depends:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e" description:"renew passport" entry:"1563965091" modified:"1569413519" status:"pending" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
+new [depends:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e" description:"renew passport" end:"1573022122" entry:"1563965091" modified:"1573022122" status:"completed" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
+---
+time 1573022122
+old [description:"get omers details for passport" entry:"1569413511" modified:"1569413511" status:"pending" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
+new [description:"get omers details for passport" end:"1573022122" entry:"1569413511" modified:"1573022122" status:"completed" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
+---
