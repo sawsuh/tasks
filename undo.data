@@ -567,3 +567,25 @@ time 1573022122
 old [description:"get omers details for passport" entry:"1569413511" modified:"1569413511" status:"pending" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
 new [description:"get omers details for passport" end:"1573022122" entry:"1569413511" modified:"1573022122" status:"completed" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
 ---
+time 1576412558
+new [description:"get white vinegar + spray bottle, bug spray from bunnings" entry:"1576412558" modified:"1576412558" status:"pending" uuid:"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"]
+---
+time 1576412571
+new [description:"kill ants" entry:"1576412571" modified:"1576412571" status:"pending" uuid:"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"]
+---
+time 1576412573
+new [description:"clean" entry:"1576412573" modified:"1576412573" status:"pending" uuid:"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"]
+---
+time 1576412614
+new [description:"vacuum up \/ wipe off" entry:"1576412614" modified:"1576412614" status:"pending" uuid:"7622702f-e3a5-4921-b8cc-e38e73bdc760"]
+---
+time 1576412638
+old [description:"clean" entry:"1576412573" modified:"1576412573" status:"pending" uuid:"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"]
+new [description:"clean" end:"1576412637" entry:"1576412573" modified:"1576412638" status:"deleted" uuid:"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"]
+---
+time 1576412640
+new [description:"clean" entry:"1576412640" modified:"1576412640" status:"pending" uuid:"3c9b41b7-8653-4dea-a7b6-b879eb611c78"]
+---
+time 1576412647
+new [description:"spray entrances" entry:"1576412647" modified:"1576412647" status:"pending" uuid:"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"]
+---

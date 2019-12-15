@@ -154,3 +154,10 @@
 {"description":"do 180dc research","end":"20190925T121219Z","entry":"20190913T015157Z","modified":"20190925T121219Z","status":"completed","uuid":"2a315df0-adc9-4415-8e71-356975c673f6"}
 {"depends":"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e","description":"renew passport","end":"20191106T063522Z","entry":"20190724T104451Z","modified":"20191106T063522Z","status":"completed","uuid":"662bffa6-7c32-44b4-a182-92ab2ceb7657"}
 {"description":"get omers details for passport","end":"20191106T063522Z","entry":"20190925T121151Z","modified":"20191106T063522Z","status":"completed","uuid":"92d14e78-c6b4-4828-902f-f621b209ec4e"}
+{"description":"get white vinegar + spray bottle, bug spray from bunnings","entry":"20191215T122238Z","modified":"20191215T122238Z","status":"pending","uuid":"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"}
+{"description":"kill ants","entry":"20191215T122251Z","modified":"20191215T122251Z","status":"pending","uuid":"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"}
+{"description":"clean","entry":"20191215T122253Z","modified":"20191215T122253Z","status":"pending","uuid":"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"}
+{"description":"vacuum up \/ wipe off","entry":"20191215T122334Z","modified":"20191215T122334Z","status":"pending","uuid":"7622702f-e3a5-4921-b8cc-e38e73bdc760"}
+{"description":"clean","end":"20191215T122357Z","entry":"20191215T122253Z","modified":"20191215T122358Z","status":"deleted","uuid":"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"}
+{"description":"clean","entry":"20191215T122400Z","modified":"20191215T122400Z","status":"pending","uuid":"3c9b41b7-8653-4dea-a7b6-b879eb611c78"}
+{"description":"spray entrances","entry":"20191215T122407Z","modified":"20191215T122407Z","status":"pending","uuid":"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"}
