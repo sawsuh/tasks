@@ -589,3 +589,26 @@ new [description:"clean" entry:"1576412640" modified:"1576412640" status:"pendin
 time 1576412647
 new [description:"spray entrances" entry:"1576412647" modified:"1576412647" status:"pending" uuid:"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"]
 ---
+time 1576590490
+old [description:"get white vinegar + spray bottle, bug spray from bunnings" entry:"1576412558" modified:"1576412558" status:"pending" uuid:"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"]
+new [description:"get white vinegar + spray bottle, bug spray from bunnings" end:"1576590487" entry:"1576412558" modified:"1576590490" status:"completed" uuid:"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"]
+---
+time 1576590490
+old [description:"kill ants" entry:"1576412571" modified:"1576412571" status:"pending" uuid:"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"]
+new [description:"kill ants" end:"1576590490" entry:"1576412571" modified:"1576590490" status:"completed" uuid:"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"]
+---
+time 1576590490
+old [description:"vacuum up \/ wipe off" entry:"1576412614" modified:"1576412614" status:"pending" uuid:"7622702f-e3a5-4921-b8cc-e38e73bdc760"]
+new [description:"vacuum up \/ wipe off" end:"1576590490" entry:"1576412614" modified:"1576590490" status:"completed" uuid:"7622702f-e3a5-4921-b8cc-e38e73bdc760"]
+---
+time 1576590490
+old [description:"spray entrances" entry:"1576412647" modified:"1576412647" status:"pending" uuid:"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"]
+new [description:"spray entrances" end:"1576590490" entry:"1576412647" modified:"1576590490" status:"completed" uuid:"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"]
+---
+time 1577075896
+old [description:"clean" entry:"1576412640" modified:"1576412640" status:"pending" uuid:"3c9b41b7-8653-4dea-a7b6-b879eb611c78"]
+new [description:"clean" end:"1577075896" entry:"1576412640" modified:"1577075896" status:"completed" uuid:"3c9b41b7-8653-4dea-a7b6-b879eb611c78"]
+---
+time 1577075908
+new [description:"add anacron to desktop and add files as job" entry:"1577075908" modified:"1577075908" status:"pending" uuid:"457d650f-1e0a-4b85-b046-2387963a0119"]
+---

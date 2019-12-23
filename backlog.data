@@ -161,3 +161,9 @@
 {"description":"clean","end":"20191215T122357Z","entry":"20191215T122253Z","modified":"20191215T122358Z","status":"deleted","uuid":"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"}
 {"description":"clean","entry":"20191215T122400Z","modified":"20191215T122400Z","status":"pending","uuid":"3c9b41b7-8653-4dea-a7b6-b879eb611c78"}
 {"description":"spray entrances","entry":"20191215T122407Z","modified":"20191215T122407Z","status":"pending","uuid":"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"}
+{"description":"get white vinegar + spray bottle, bug spray from bunnings","end":"20191217T134807Z","entry":"20191215T122238Z","modified":"20191217T134810Z","status":"completed","uuid":"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"}
+{"description":"kill ants","end":"20191217T134810Z","entry":"20191215T122251Z","modified":"20191217T134810Z","status":"completed","uuid":"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"}
+{"description":"vacuum up \/ wipe off","end":"20191217T134810Z","entry":"20191215T122334Z","modified":"20191217T134810Z","status":"completed","uuid":"7622702f-e3a5-4921-b8cc-e38e73bdc760"}
+{"description":"spray entrances","end":"20191217T134810Z","entry":"20191215T122407Z","modified":"20191217T134810Z","status":"completed","uuid":"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"}
+{"description":"clean","end":"20191223T043816Z","entry":"20191215T122400Z","modified":"20191223T043816Z","status":"completed","uuid":"3c9b41b7-8653-4dea-a7b6-b879eb611c78"}
+{"description":"add anacron to desktop and add files as job","entry":"20191223T043828Z","modified":"20191223T043828Z","status":"pending","uuid":"457d650f-1e0a-4b85-b046-2387963a0119"}

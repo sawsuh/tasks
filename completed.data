@@ -1,3 +1,7 @@
+[description:"get white vinegar + spray bottle, bug spray from bunnings" end:"1576590487" entry:"1576412558" modified:"1576590490" status:"completed" uuid:"ae6c56fe-a76a-4d46-9464-c9a92a5bd550"]
+[description:"kill ants" end:"1576590490" entry:"1576412571" modified:"1576590490" status:"completed" uuid:"b5470c84-c49d-4e39-80d2-0a529fb6ef7e"]
+[description:"vacuum up \/ wipe off" end:"1576590490" entry:"1576412614" modified:"1576590490" status:"completed" uuid:"7622702f-e3a5-4921-b8cc-e38e73bdc760"]
+[description:"spray entrances" end:"1576590490" entry:"1576412647" modified:"1576590490" status:"completed" uuid:"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"]
 [description:"clean" end:"1576412637" entry:"1576412573" modified:"1576412638" status:"deleted" uuid:"4c1b9b54-ba2c-419d-9738-dc748bb1b19a"]
 [depends:"628417a1-2f27-43fd-a4d7-7e1bf8efe7d6,92d14e78-c6b4-4828-902f-f621b209ec4e" description:"renew passport" end:"1573022122" entry:"1563965091" modified:"1573022122" status:"completed" uuid:"662bffa6-7c32-44b4-a182-92ab2ceb7657"]
 [description:"get omers details for passport" end:"1573022122" entry:"1569413511" modified:"1573022122" status:"completed" uuid:"92d14e78-c6b4-4828-902f-f621b209ec4e"]
