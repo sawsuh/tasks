@@ -167,3 +167,4 @@
 {"description":"spray entrances","end":"20191217T134810Z","entry":"20191215T122407Z","modified":"20191217T134810Z","status":"completed","uuid":"3bd047bd-a456-4594-a3e3-d85a64cb2ba3"}
 {"description":"clean","end":"20191223T043816Z","entry":"20191215T122400Z","modified":"20191223T043816Z","status":"completed","uuid":"3c9b41b7-8653-4dea-a7b6-b879eb611c78"}
 {"description":"add anacron to desktop and add files as job","entry":"20191223T043828Z","modified":"20191223T043828Z","status":"pending","uuid":"457d650f-1e0a-4b85-b046-2387963a0119"}
+{"description":"add anacron to desktop and add files as job","end":"20191224T013250Z","entry":"20191223T043828Z","modified":"20191224T013250Z","status":"completed","uuid":"457d650f-1e0a-4b85-b046-2387963a0119"}
