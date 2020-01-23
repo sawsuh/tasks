@@ -625,3 +625,45 @@ new [description:"call novus" entry:"1579657768" modified:"1579657768" status:"p
 time 1579657779
 new [description:"call aussiewindscreens" entry:"1579657779" modified:"1579657779" status:"pending" uuid:"05dff174-b0e4-45df-aaaf-dffeaf0a1eaf"]
 ---
+time 1579657833
+new [description:"call insurance" entry:"1579657833" modified:"1579657833" status:"pending" uuid:"c8e956cb-e964-4e98-a77e-0010474e9d8a"]
+---
+time 1579657955
+old [description:"call obrien glass" entry:"1579657762" modified:"1579657762" status:"pending" uuid:"ce99057c-3046-48f3-a9ee-b23d85640420"]
+new [description:"call obrien glass" entry:"1579657762" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"ce99057c-3046-48f3-a9ee-b23d85640420"]
+---
+time 1579657955
+old [description:"call novus" entry:"1579657768" modified:"1579657768" status:"pending" uuid:"04a7c760-8943-4258-aba0-a673555f7aee"]
+new [description:"call novus" entry:"1579657768" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"04a7c760-8943-4258-aba0-a673555f7aee"]
+---
+time 1579657955
+old [description:"call aussiewindscreens" entry:"1579657779" modified:"1579657779" status:"pending" uuid:"05dff174-b0e4-45df-aaaf-dffeaf0a1eaf"]
+new [description:"call aussiewindscreens" entry:"1579657779" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"05dff174-b0e4-45df-aaaf-dffeaf0a1eaf"]
+---
+time 1579657955
+old [description:"call insurance" entry:"1579657833" modified:"1579657833" status:"pending" uuid:"c8e956cb-e964-4e98-a77e-0010474e9d8a"]
+new [description:"call insurance" entry:"1579657833" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"c8e956cb-e964-4e98-a77e-0010474e9d8a"]
+---
+time 1579657968
+new [depends:"ce99057c-3046-48f3-a9ee-b23d85640420,04a7c760-8943-4258-aba0-a673555f7aee,05dff174-b0e4-45df-aaaf-dffeaf0a1eaf,c8e956cb-e964-4e98-a77e-0010474e9d8a" description:"call insurance" entry:"1579657968" modified:"1579657968" status:"pending" uuid:"71808f24-602c-41de-9ef6-5efebfb99c2f"]
+---
+time 1579657990
+old [description:"call insurance" entry:"1579657833" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"c8e956cb-e964-4e98-a77e-0010474e9d8a"]
+new [description:"call insurance" end:"1579657988" entry:"1579657833" modified:"1579657990" project:"glass repairs" status:"deleted" uuid:"c8e956cb-e964-4e98-a77e-0010474e9d8a"]
+---
+time 1579769867
+old [description:"call obrien glass" entry:"1579657762" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"ce99057c-3046-48f3-a9ee-b23d85640420"]
+new [description:"call obrien glass" end:"1579769867" entry:"1579657762" modified:"1579769867" project:"glass repairs" status:"completed" uuid:"ce99057c-3046-48f3-a9ee-b23d85640420"]
+---
+time 1579769867
+old [depends:"ce99057c-3046-48f3-a9ee-b23d85640420,04a7c760-8943-4258-aba0-a673555f7aee,05dff174-b0e4-45df-aaaf-dffeaf0a1eaf,c8e956cb-e964-4e98-a77e-0010474e9d8a" description:"call insurance" entry:"1579657968" modified:"1579657968" status:"pending" uuid:"71808f24-602c-41de-9ef6-5efebfb99c2f"]
+new [depends:"ce99057c-3046-48f3-a9ee-b23d85640420,04a7c760-8943-4258-aba0-a673555f7aee,05dff174-b0e4-45df-aaaf-dffeaf0a1eaf,c8e956cb-e964-4e98-a77e-0010474e9d8a" description:"call insurance" end:"1579769867" entry:"1579657968" modified:"1579769867" status:"completed" uuid:"71808f24-602c-41de-9ef6-5efebfb99c2f"]
+---
+time 1579769871
+old [description:"call novus" entry:"1579657768" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"04a7c760-8943-4258-aba0-a673555f7aee"]
+new [description:"call novus" end:"1579769871" entry:"1579657768" modified:"1579769871" project:"glass repairs" status:"completed" uuid:"04a7c760-8943-4258-aba0-a673555f7aee"]
+---
+time 1579769871
+old [description:"call aussiewindscreens" entry:"1579657779" modified:"1579657955" project:"glass repairs" status:"pending" uuid:"05dff174-b0e4-45df-aaaf-dffeaf0a1eaf"]
+new [description:"call aussiewindscreens" end:"1579769871" entry:"1579657779" modified:"1579769871" project:"glass repairs" status:"completed" uuid:"05dff174-b0e4-45df-aaaf-dffeaf0a1eaf"]
+---
